@@ -1,0 +1,6 @@
+[submodule "templates/utility-template"]
+	path = templates/utility-template
+	url = https://github.com/frizzerdk/utility-template.git
+[submodule "templates/experiment-template"]
+	path = templates/experiment-template
+	url = https://github.com/frizzerdk/experiment-template.git
